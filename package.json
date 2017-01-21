@@ -1,0 +1,18 @@
+{
+  "name": "tiaan",
+  "version": "0.0.0",
+  "description": "Module parking like a pro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiaanduplessis/tiaan.git"
+  },
+  "keywords": [
+    "tiaan"
+  ],
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiaanduplessis/tiaan/issues"
+  },
+  "homepage": "https://github.com/tiaanduplessis/tiaan#readme"
+}
