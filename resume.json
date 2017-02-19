@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Tiaan du Plessis",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "tiaanduplessis@hotmail.com",
+    "phone": "0728129498",
+    "website": "tiaanduplessis.co.za",
+    "summary": "",
+    "location": {
+      "address": "Langeberg Glen",
+      "postalCode": "7570",
+      "city": "Cape Town",
+      "countryCode": "ZA",
+      "region": "Western Cape"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "tiaanduplessis",
+        "url": "github.com/tiaanduplessis"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Tiaan du Plessis",
+        "url": "za.linkedin.com/in/tiaan-du-plessis-a25b37124"
+      },
+      {
+        "network": "Codepen",
+        "username": "tiaan",
+        "url": "codepen.io/tiaan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Full Facing",
+      "position": "Software Developer Intern",
+      "website": "http://fullfacing.com",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-01",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Full Facing",
+      "position": "Software Developer",
+      "website": "http://fullfacing.com",
+      "startDate": "2016-08-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "University of South Africa",
+      "area": "Informatics",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2016",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+  ],
+  "languages": [
+    {
+      "language": "Afrikaans",
+      "fluency": "Native Speaking"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Capacity"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ]
+}

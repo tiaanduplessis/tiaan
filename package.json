@@ -1,18 +1,28 @@
 {
   "name": "tiaan",
-  "version": "0.0.0",
-  "description": "Module parking like a pro",
+  "version": "0.0.1",
+  "description": "JSON Resume",
+  "main": "resume.json",
+  "scripts": {
+    "test": "resume test",
+    "dev": "resume serve",
+    "gh-pages": "gh-pages -d public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tiaanduplessis/tiaan.git"
   },
   "keywords": [
-    "tiaan"
+    "Tiaan du Plessis",
+    "Resume"
   ],
   "author": "Tiaan du Plessis",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tiaanduplessis/tiaan/issues"
   },
-  "homepage": "https://github.com/tiaanduplessis/tiaan#readme"
+  "homepage": "https://github.com/tiaanduplessis/tiaan#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
 }
